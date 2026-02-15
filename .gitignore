@@ -1,4 +1,5 @@
 Pandas/Lectures/*.ipynb
+Pandas/Hometask/*.csv
 Pandas/Data/train.csv
 Pandas/Data/test.csv
 Pandas/Data/sample_submission.csv
