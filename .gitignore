@@ -24,3 +24,5 @@ Machine learning. New course/Kaggle competition 1 (Bank Customer Churn Predictio
 Machine learning. New course/Kaggle competition 1 (Bank Customer Churn Prediction (DLU Course c.5))/train_targets.parquet
 Machine learning. New course/Kaggle competition 1 (Bank Customer Churn Prediction (DLU Course c.5))/val_inputs.parquet
 Machine learning. New course/Kaggle competition 1 (Bank Customer Churn Prediction (DLU Course c.5))/val_targets.parquet
+Machine learning. New course/Kaggle competition 1 (Bank Customer Churn Prediction (DLU Course c.5))/regression_data.csv
+Machine learning. New course/Kaggle competition 1 (Bank Customer Churn Prediction (DLU Course c.5))/logistic_regression_pipeline.joblib
